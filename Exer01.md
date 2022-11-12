@@ -1,6 +1,7 @@
+#1) Ler 10 elementos de uma matriz tipo vetor e apresentá-los.
+
 import java.util.Scanner;
 
-#1) Ler 10 elementos de uma matriz tipo vetor e apresentá-los.
 public class Exer01 {
 	
 	public static void main(String[] args) 
